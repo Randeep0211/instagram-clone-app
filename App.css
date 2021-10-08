@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+}
+
+
+.App{
+    height: 100vh;
+}
+
+
+
+
+
+.app__image{
+    padding: 20px;
+    border-bottom: 4px black solid;
+    object-fit: contain;
+  }
